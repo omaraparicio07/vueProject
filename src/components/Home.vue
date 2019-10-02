@@ -10,7 +10,7 @@ export default {
   name: 'indexPage',
   data () {
     return {
-      mensaje: 'Hola desde un Vue'
+      mensaje: 'Hola desde Vue!'
     }
   },
   created () { // lifecycle hook
